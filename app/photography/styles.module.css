@@ -1,0 +1,6 @@
+.categoryDivider {
+  height: 1px;
+  width: 100%;
+  background: linear-gradient(to right, transparent, rgba(0, 0, 0, 0.1), transparent);
+  margin: 2rem 0;
+}
